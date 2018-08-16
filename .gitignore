@@ -3,4 +3,5 @@ img.png
 __pycache__/
 data/
 models/
+development.ipynb
 .ipynb_checkpoints/
